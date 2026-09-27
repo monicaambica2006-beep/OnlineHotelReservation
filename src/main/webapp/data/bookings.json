@@ -1,0 +1,14 @@
+[
+  {
+    "bookingId": "BK-88391",
+    "guestName": "John Doe",
+    "guestEmail": "john.doe@example.com",
+    "hotelName": "The Grand Horizon Luxury Resort",
+    "roomName": "Deluxe Ocean View King",
+    "checkIn": "2026-10-12",
+    "checkOut": "2026-10-16",
+    "amountPaid": 1339.52,
+    "paymentMethod": "Credit Card (VISA)",
+    "paymentStatus": "COMPLETED"
+  }
+]

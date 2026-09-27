@@ -1,0 +1,46 @@
+[
+  {
+    "name": "The Grand Horizon Luxury Resort",
+    "location": "Miami, FL",
+    "rating": 4.9,
+    "pricePerNight": 299.0,
+    "amenities": [
+      "Pool",
+      "Spa",
+      "WiFi",
+      "Breakfast"
+    ]
+  },
+  {
+    "name": "Skyline Urban Boutique Hotel",
+    "location": "New York, NY",
+    "rating": 4.7,
+    "pricePerNight": 210.0,
+    "amenities": [
+      "WiFi",
+      "Breakfast"
+    ]
+  },
+  {
+    "name": "Malibu Coastal Haven Villa",
+    "location": "Malibu, CA",
+    "rating": 4.8,
+    "pricePerNight": 450.0,
+    "amenities": [
+      "Pool",
+      "Spa",
+      "WiFi",
+      "Breakfast"
+    ]
+  },
+  {
+    "name": "Alpine Peak Lodge & Spa",
+    "location": "Aspen, CO",
+    "rating": 4.6,
+    "pricePerNight": 180.0,
+    "amenities": [
+      "Spa",
+      "WiFi"
+    ]
+  }
+]
